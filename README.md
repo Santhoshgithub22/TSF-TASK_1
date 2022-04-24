@@ -15,9 +15,6 @@ In this task I predicted the percentage of students based on number of study hou
 
 
 ## Data Collection
-As per the project requirements, five Years of Data was collected from 1st Feb 2017 to 08th Feb 2022
-
-[Link to Raw Data](https://finance.yahoo.com/)
 
 The data was given by "The Spark Foundation".
 
