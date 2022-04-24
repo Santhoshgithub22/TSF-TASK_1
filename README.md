@@ -12,7 +12,8 @@ In this task I predicted the percentage of students based on number of study hou
 2. Exploratory Data Analysis
 3. Simple Linear Regression
 4. Conclusion
-5. 
+
+
 ## Data Collection
 As per the project requirements, five Years of Data was collected from 1st Feb 2017 to 08th Feb 2022
 
