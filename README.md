@@ -2,6 +2,9 @@ Prediction Using Supervised ML
 
 In this task I predicted the percentage of students based on number of study hours.
 
+1. Libraries used : Pandas, NumPy, Matplotlib, Seaborn.
+2. Algorithm Used : Simple Linear Regression (Supervised ML)
+
 ## Author
 
 - Santhosh Kumar M
